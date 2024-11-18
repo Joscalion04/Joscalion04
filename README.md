@@ -10,6 +10,8 @@
 - 🌐 Open to work
 
 
+
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
@@ -80,6 +82,13 @@
     </a>
 </div>
 
+<!-- 
+<div align="center">
+    <a href="https://github.com/Joscalion04/biesVM">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joscalion04&repo=biesVM&title_color=7A7ADB&text_color=D3D3D3&icon_color=2234AE&bg_color=0,000000,130F40" alt="biesVM Repository"/>
+    </a>
+</div>
+-->
 
 
 ## <b>Let's Connect!</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
