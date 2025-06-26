@@ -83,9 +83,18 @@
 <br>
 
 <div align="center">
-    <a href="https://github.com/Joscalion04">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Joscalion04&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="Joscalion04's Top Languages"/>
-    </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joscalion04&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joscalion04&theme=tokyonight&layout=compact"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joscalion04&theme=tokyonight" alt="mystreak"/>
+</div>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Joscalion04}/count.svg" /></p> 
+<br>
 </div>
 
 ## <b>Let's Connect!</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
