@@ -90,12 +90,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joscalion04&theme=tokyonight" alt="mystreak"/>
 </div>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Joscalion04}/count.svg" /></p> 
-<br>
-</div>
+
 
 ## <b>Let's Connect!</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
 <p align="center">
