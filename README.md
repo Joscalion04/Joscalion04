@@ -115,10 +115,6 @@ I am passionate about helping organizations reduce risk, improve their security 
 
 <br><br>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Joscalion04&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joscalion04&layout=compact&theme=github_dark&hide_border=true" />
-
 </div>
 
 ---
